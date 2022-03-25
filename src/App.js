@@ -46,6 +46,12 @@ function ProdukInfo(props) {
           odit laboriosam commodi ad illum libero repudiandae id voluptatum
           dolore voluptate, officiis impedit.
         </p>
+        <p className="Info">
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Distinctio
+          aliquam quam exercitationem blanditiis tenetur nihil molestias nam
+          odit laboriosam commodi ad illum libero repudiandae id voluptatum
+          dolore voluptate, officiis impedit.
+        </p>
         <a onClick={(e) => TambahCart(name, e)} href="#">
           Add to Cart
         </a>
